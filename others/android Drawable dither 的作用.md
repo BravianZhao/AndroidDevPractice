@@ -7,3 +7,8 @@ dither 抖动，是采用随机量化误差故意给数据添加的噪音，用�
 
 ![](../img/no-dithered.png )
 
+参考：
+
+- [Bitmap quality, banding and dithering](http://www.curious-creature.com/2010/12/08/bitmap-quality-banding-and-dithering/)
+
+
